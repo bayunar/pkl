@@ -1,8 +1,14 @@
 {
-  "login": {
-    "email": "bayu.nara@mail.com",
-    "password": "123"
-  },
+  "login": [
+    {
+      "email": "bayu.nara@mail.com",
+      "password": "123"
+    },
+    {
+      "email": "nara.tama@mail.com",
+      "password": "123"
+    }
+  ],
   "posts": [
     {
       "id": 1,
