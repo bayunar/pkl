@@ -63,11 +63,9 @@
   ],
   "profile": {
     "name": "Nara"
-  }
-  "login": [
-    {
-      "email": "bayu.nara@mail.com",
-      "password": "123"
-    }
-  ]
+  },
+  "login" {
+     "email": "bayu.nara@mail.com",
+     "password": "123"
+   }
 }
