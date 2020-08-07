@@ -64,8 +64,8 @@
   "profile": {
     "name": "Nara"
   }
-  "login":{
-    "email": "bayu.nara@mail.com"
+  "login": {
+    "email": "bayu.nara@mail.com",
     "password": "123"
   }
 }
